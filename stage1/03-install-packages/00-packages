@@ -1,2 +1,5 @@
 libraspberrypi-bin libraspberrypi0
 systemd-timesyncd
+chromium-browser
+x11-xserver-utils
+unclutter
